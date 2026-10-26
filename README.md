@@ -51,10 +51,10 @@ python -m http.server 8000
 
 ## Development notes
 
-_Edit this section so it is true for you._
+
 
 - Idea and use case: a real shop I know, built so customers can send their list without calling.
-- I built this with the help of an AI assistant (Claude). _Write here which parts you did yourself, for example the content, the item lists, testing, and the changes you asked for, and what you learned._
+- I built this with the help of an AI assistant (Claude). I asked for features like the live search bar and tested the site on my phone.
 - Tested on a phone-sized and a desktop-sized browser window.
 
 ## Contact (shop)
