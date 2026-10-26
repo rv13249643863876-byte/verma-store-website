@@ -4,7 +4,7 @@ A responsive, frontend-only website for **Verma Store**, a neighbourhood general
 
 > Frontend only. No backend, no database, no API keys.
 
-**Live link:** _add your GitHub Pages link here_
+**Live link:** https://rv13249643863876-byte.github.io/verma-store-website/
 
 ## What it does
 
